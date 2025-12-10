@@ -18,8 +18,8 @@ As a <strong>Kubeastronaut</strong>, I navigated the vastness of the cloud-nativ
 | **Certified Kubernetes Administrator (CKA)** | [![CNCF Certified Kubernetes Administrator (CKA)](https://img.shields.io/badge/CKA-Achieved-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/f37e7f35-fcbd-4285-8a44-3a313f89cba6) |
 | **Certified Kubernetes Security Specialist (CKS)** | [![CNCF Certified Kubernetes Security Specialist (CKS)](https://img.shields.io/badge/CKS-Achieved-659AEE?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/1759f690-c095-40de-a38b-3d426a2adc36) |
 | **Certified Kubernetes Application Developer (CKAD)** | [![CNCF Certified Kubernetes Application Developer (CKAD)](https://img.shields.io/badge/CKAD-Achieved-5C9B3C?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/770b9436-56d9-464e-8528-a4423855ef5a) |
-| **Kubernetes and Cloud Native Associate (KCNA)** | [![Kubernetes and Cloud Native Associate (KCNA)](https://img.shields.io/badge/KCNA-Achieved-16782E?style=for-the-badge&logo=kubernetes&logoColor=white)](YOUR_KCNA_CERTIFICATE_LINK) |
-| **Kubernetes and Cloud Native Security Associate (KCSA)** | [![Kubernetes and Cloud Native Security Associate (KCSA)](https://img.shields.io/badge/KCSA-Achieved-9A6900?style=for-the-badge&logo=kubernetes&logoColor=white)](YOUR_KCSA_CERTIFICATE_LINK) |
+| **Kubernetes and Cloud Native Associate (KCNA)** | [![Kubernetes and Cloud Native Associate (KCNA)](https://img.shields.io/badge/KCNA-Achieved-16782E?style=for-the-badge&logo=kubernetes&logoColor=white)]([YOUR_KCNA_CERTIFICATE_LINK](https://www.credly.com/badges/cc5e5963-82dc-46e9-9e7b-d778334154ad)) |
+| **Kubernetes and Cloud Native Security Associate (KCSA)** | [![Kubernetes and Cloud Native Security Associate (KCSA)](https://img.shields.io/badge/KCSA-Achieved-9A6900?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/73f1c3c5-85dd-4691-a947-de048a84cc23) |
 
 ---
 
@@ -40,21 +40,6 @@ As a <strong>Kubeastronaut</strong>, I navigated the vastness of the cloud-nativ
  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-</p>
-
----
-
-<h3>📊 GitHub Statistics</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaima-belhedi&show_icons=true&locale=en&hide_title=true&bg_color=ffffff00&border_color=326CE5&title_color=326CE5&icon_color=326CE5" alt="chaima-belhedi's GitHub Stats" style="padding-right: 15px;"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaima-belhedi&show_icons=true&locale=en&layout=compact&hide_title=true&bg_color=ffffff00&border_color=326CE5&title_color=326CE5&icon_color=326CE5" alt="chaima-belhedi's Top Languages" />
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=chaima-belhedi&label=Profile%20views&color=326CE5&style=flat" alt="chaima-belhedi Profile views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chaima-belhedi&theme=on-the-ocean&no-background=true" alt="chaima-belhedi GitHub Trophies" />
-  </a> 
 </p>
 
 ---
