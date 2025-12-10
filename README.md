@@ -8,7 +8,12 @@
 <h2>👩‍🚀 Kubeastronaut: Mission Accomplished 🌟</h2>
 
 <blockquote>
-As a <strong>Kubeastronaut</strong>, I navigated the vastness of the cloud-native world. It was a challenging journey, and I'm proud to be a gal who successfully completed the mission and secured these critical orbital certifications.
+As a Kubeastronaut, I navigated the vastness of the cloud-native world. It was a challenging journey, and I'm proud to be a gal who successfully completed the mission and earned these critical orbital certifications.  
+
+**Check my Kubeastronaut profile here:**  
+[https://www.cncf.io/training/kubestronaut/?_sft_lf-country=tn&p=belhedi-chaima](https://www.cncf.io/training/kubestronaut/?_sft_lf-country=tn&p=belhedi-chaima)
+
+
 </blockquote>
 
 <p><strong>Kubeastronaut's Orbital Certification Log</strong></p>
