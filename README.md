@@ -8,7 +8,7 @@
 <h2>👩‍🚀 Kubeastronaut: Mission Accomplished 🌟</h2>
 
 <blockquote>
-"As a <strong>Kubeastronaut</strong>, I navigated the vastness of the cloud-native world. It was a challenging journey, and I'm proud to be a gal who successfully completed the mission and secured these critical orbital certifications."
+As a <strong>Kubeastronaut</strong>, I navigated the vastness of the cloud-native world. It was a challenging journey, and I'm proud to be a gal who successfully completed the mission and secured these critical orbital certifications.
 </blockquote>
 
 <p><strong>Kubeastronaut's Orbital Certification Log</strong></p>
